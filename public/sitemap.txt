@@ -1,0 +1,17 @@
+https://namesfor.gitlab.io/frontend
+https://namesfor.gitlab.io/frontend/all
+https://namesfor.gitlab.io/frontend/cat
+https://namesfor.gitlab.io/frontend/dog
+https://namesfor.gitlab.io/frontend/goldfish
+https://namesfor.gitlab.io/frontend/hamster
+https://namesfor.gitlab.io/frontend/kitten
+https://namesfor.gitlab.io/frontend/mouse
+https://namesfor.gitlab.io/frontend/parrot
+https://namesfor.gitlab.io/frontend/puppy
+https://namesfor.gitlab.io/frontend/rabbit
+https://namesfor.gitlab.io/frontend/fish
+https://namesfor.gitlab.io/frontend/turtle
+https://namesfor.gitlab.io/frontend/boy
+https://namesfor.gitlab.io/frontend/girl
+https://namesfor.gitlab.io/frontend/male
+https://namesfor.gitlab.io/frontend/female

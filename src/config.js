@@ -1,0 +1,17 @@
+export const animals = [
+    "Cat",
+    "Dog",
+    "Goldfish",
+    "Hamster",
+    "Kitten",
+    "Mouse",
+    "Parrot",
+    "Puppy",
+    "Rabbit",
+    "Fish",
+    "Turtle",
+    "Boy",
+    "Girl",
+    "Male",
+    "Female",
+];

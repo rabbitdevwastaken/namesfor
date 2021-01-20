@@ -1,0 +1,3 @@
+Sitemap: https://namesfor.gitlab.io/frontend/sitemap.txt
+User-agent: *
+Disallow:
